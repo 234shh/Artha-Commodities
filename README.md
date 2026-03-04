@@ -1,2 +1,0 @@
-# Artha-Commodities
-melodic-centaur-e3020a.netlify.app
